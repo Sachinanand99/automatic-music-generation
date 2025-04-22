@@ -8,6 +8,8 @@ music21==8.1.0
 
 # Machine Learning (Intel Optimized)
 tensorflow-intel==2.13.0
+# for GPU support, use the following line instead:
+# tensorflow==2.13.0
 
 # Metaheuristic Optimization
 mealpy==1.0.2
