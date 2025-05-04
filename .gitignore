@@ -1,2 +1,5 @@
 env
-maestro-v3.0.0
+dataset
+summary
+report/*.docx
+*.wav
